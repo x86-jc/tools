@@ -1,12 +1,12 @@
 /********************************************************
  * Title: 		    reflect								*
- * Creator: 		  John J. Coleman						*
+ * Creator: 		John J. Coleman						*
  * Creation Date:	27.11.2025							*
  * Modified Date:	12.12.2025							*
- *                                                     *
- * Description:                                        *
- * Compare output of files side by side.               *
- * Not complete yet, still a lot of work needed.       *
+ *                                                     	*
+ * Description:                                        	*
+ * Compare output of files side by side.               	*
+ * Not complete yet, still a lot of work needed.       	*
  *******************************************************/
 
 #include <stdio.h>
